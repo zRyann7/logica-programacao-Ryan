@@ -1,26 +1,39 @@
-Quiz de Git & GitHub
+# 🎯 Mini-Quiz: Git & GitHub
 
-# 1. Se o Git fosse um videogame, qual comando seria o "Checkpoint" para salvar seu progresso localmente?
-a) Push
-b) Commit
-c) Pull
+### 1️⃣ Se o Git fosse um videogame, qual comando seria o "Checkpoint" para salvar seu progresso localmente?
+- [ ] **A)** Push
+- [ ] **B)** Commit
+- [ ] **C)** Pull
 
-# 2. Qual é a principal diferença entre Git e GitHub?
-a) Git é onde guardamos os arquivos e GitHub é o software instalado.
-b) Git é a ferramenta que monitora alterações e GitHub é a plataforma onde compartilhamos os projetos.
-c) Não há diferença, são nomes diferentes para a mesma coisa.
+### 2️⃣ Qual é a principal diferença entre Git e GitHub?
+- [ ] **A)** Git é onde guardamos os arquivos e GitHub é o software instalado.
+- [ ] **B)** Git é a ferramenta que monitora alterações e GitHub é a plataforma onde compartilhamos os projetos.
+- [ ] **C)** Não há diferença, são nomes diferentes para a mesma coisa.
 
-# 3. Você terminou uma funcionalidade e quer enviá-la do seu computador para o seu portfólio no GitHub. Qual comando você usa?
-a) Push
-b) Branch
-c) Pull
+### 3️⃣ Você terminou uma funcionalidade e quer enviá-la do seu computador para o seu portfólio no GitHub. Qual comando você usa?
+- [ ] **A)** Push
+- [ ] **B)** Branch
+- [ ] **C)** Pull
 
-# 4. Para que serve uma "Branch" no desenvolvimento de um software?
-a) Para apagar o histórico de erros do projeto.
-b) Para baixar o código de um amigo.
-c) Para criar uma linha do tempo paralela e testar coisas novas sem estragar o projeto principal.
+### 4️⃣ Para que serve uma "Branch" no desenvolvimento de um software?
+- [ ] **A)** Para apagar o histórico de erros do projeto.
+- [ ] **B)** Para baixar o código de um amigo.
+- [ ] **C)** Para criar uma linha do tempo paralela e testar coisas novas sem estragar o projeto principal.
 
-# 5. Onde ficam armazenados os projetos que subimos para o GitHub?
-a) Em um Commit.
-b) Em um Repositório.
-c) Em um Pendrive virtual.
+### 5️⃣ Onde ficam armazenados os projetos que subimos para o GitHub?
+- [ ] **A)** Em um Commit.
+- [ ] **B)** Em um Repositório.
+- [ ] **C)** Em um Pendrive virtual.
+
+---
+
+<details>
+<summary>🔑 Clique aqui para ver o Gabarito</summary>
+
+1. **B** (Commit)
+2. **B** (Git = Ferramenta / GitHub = Plataforma)
+3. **A** (Push)
+4. **C** (Linha do tempo paralela)
+5. **B** (Repositório)
+
+</details>
